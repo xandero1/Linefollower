@@ -11,7 +11,7 @@ uint16_t sensorValues[SensorCount];
 void setup()
 {
   qtr.setTypeAnalog();
-  qtr.setSensorPins((const uint8_t[]){A0, A1, A2, A3, A4, A5, A6, A7}, SensorCount);
+  qtr.setSensorPins((const uint8_t[]){A7, A6, A5, A4, A3, A2, A1, A0}, SensorCount);
   qtr.setEmitterPin(13);
   Serial.begin(9600);
 }
