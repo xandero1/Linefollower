@@ -10,14 +10,23 @@ Je maakt verbinding via een bluetooth verbinding met de HC-05 module en de param
 
 #### commando's
 “run” => Starten met rijden (dit kan ook met de knop gedaan worden)
+
 “stop” => Stoppen met rijden
+
 “debug” => Tonen van de ingestelde parameters met de waarden
+
 “calibrate” => Calibreren van de sensoren
+
 “set cycle ‘waarde’ ” => Set cycle naar ‘waarde’ (waarde moet cijfer zijn)
+
 “set power ‘waarde’ ” => Set power naar ‘waarde’ (waarde moet cijfer zijn)
+
 “set diff ‘waarde’ ” => Set diff naar ‘waarde’ (waarde moet cijfer zijn)
+
 “set kp ‘waarde’ ” => Set kp naar ‘waarde’ (waarde moet cijfer zijn)
+
 “set ki ‘waarde’ ” => Set ki naar ‘waarde’ (waarde moet cijfer zijn)
+
 “set kd ‘waarde’ ” => Set kd naar ‘waarde’ (waarde moet cijfer zijn)
 
 ### kalibratie
