@@ -19,4 +19,6 @@
 |14    |Prototype board     |Double shielded board 60x60mm      |Nieuw    |€1,5      |1   |€1,5     |
 |15    |Frame      |MDF Hout     |Recup    |€0      |1   |€0     |
 |16    |Motorbracket     |PLA    |Nieuw    |€0,34   |2   |€0,68  |
-|17    |     |      |    |€     |1   |€     |
+|17    |Bouten     |Bouten      |Recup    |€0     |10   |€0     |
+|18    |Moeren     |Moeren      |Recup    |€0     |11   |€0     |
+|Totaal prijs: 
