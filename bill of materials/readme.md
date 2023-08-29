@@ -21,4 +21,4 @@
 |16    |Motorbracket     |PLA    |Nieuw    |€0,34   |2   |€0,68  |
 |17    |Bouten     |Bouten      |Recup    |€0     |10   |€0     |
 |18    |Moeren     |Moeren      |Recup    |€0     |11   |€0     |
-Totaal prijs: €62,29
+|Totaal prijs: €62,29|
