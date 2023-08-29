@@ -12,7 +12,7 @@
 |7     |Batterij     |Samsung NR18650      |Nieuw    |€8,49      |2   |€16,98     |
 |8     |LED     |Blauw 5V        |Recup    |€0      |1   |€0     |
 |9     |Drukknop     |Drukknop   |Recup    |€0      |1   |€0     |
-|10    |Schakelaar |2-standen schakelaar AAN/UIT/UIT |Recup    |€0      |1   |€0     |
+|10    |Schakelaar |Mini tuimelschekalaar  |Recup   |€0      |1   |€0     |
 |11    |Weerstand     |220Ω      |Recup    |€0      |1   |€0     |
 |12    |Weerstand     |1kΩ       |Recup    |€0      |1   |€0     |
 |13    |Weerstand     |10kΩ      |Recup    |€0      |1   |€0     |
