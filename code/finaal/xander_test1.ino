@@ -1,4 +1,4 @@
-#include "SerialCommand.h"
+#include "SerialCommand.h" //Bilbiotheken
 #include "EEPROMAnything.h"
 
 #define SerialPort Serial
